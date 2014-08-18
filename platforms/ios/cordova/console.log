@@ -1,0 +1,8 @@
+2014-08-18 18:15:32.526 mobileActive[18168:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-18 18:15:32.574 mobileActive[18168:70b] Unlimited access to network resources
+2014-08-18 18:15:32.740 mobileActive[18168:70b] [CDVTimer][keyboard] 0.105023ms
+2014-08-18 18:15:32.741 mobileActive[18168:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-18 18:15:32.741 mobileActive[18168:70b] [CDVTimer][statusbar] 0.472963ms
+2014-08-18 18:15:32.741 mobileActive[18168:70b] [CDVTimer][TotalPluginStartup] 1.655996ms
+2014-08-18 18:15:32.888 mobileActive[18168:70b] Resetting plugins due to page load.
+2014-08-18 18:15:33.192 mobileActive[18168:70b] Finished load of: file:///Users/Sara/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EA743A2A-FB52-4C79-9091-F15B67AD884D/mobileActive.app/www/index.html#/tab/dash
